@@ -1,0 +1,3 @@
+git config --global user.name "Tobi Arewa"
+git config --global user.email "oarewa@terpmail.umd.edu"
+git config --global core.editor "nano"
